@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "173496127578",
+    "project_id": "vivead-141",
+    "storage_bucket": "vivead-141.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173496127578:android:e2b8a2e4c454e12fa00863",
+        "android_client_info": {
+          "package_name": "com.devstud.vivead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173496127578-4oeb0qdd54036gahvcrd0b3h5bu3qnbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstud.vivead",
+            "certificate_hash": "e60c3849ed4fd450a8a9e71e944b609bca0b072b"
+          }
+        },
+        {
+          "client_id": "173496127578-9kvr8msfuumhd97tparm4dgcobsk3f5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZz66h8frHoveXC3q8InKB-2EjFq_i9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173496127578-9kvr8msfuumhd97tparm4dgcobsk3f5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173496127578-2k46vgpjpn4ogbjp7b21deqclahdgpta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vivead"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
