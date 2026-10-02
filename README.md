@@ -4,12 +4,11 @@
 
 **vivead** is a mobile app for tracking what you read and discovering what to read next. Its recommendation engine is built to serve readers with *diverse* tastes, so a single dominant genre doesn't drown out everything else you like.
 
-<!-- TODO: add 3–4 screenshots or a short GIF in a row -->
 <p align="center">
-  <img src="docs/screenshots/login.png" width="170" />
-  <img src="docs/screenshots/home.png" width="170" />
-  <img src="docs/screenshots/book.png" width="170" />
-  <img src="docs/screenshots/library.png" width="170" />
+  <img src="docs/screenshots/1.png" width="170" />
+  <img src="docs/screenshots/2.png" width="170" />
+  <img src="docs/screenshots/3.png" width="170" />
+  <img src="docs/screenshots/4.png" width="170" />
 </p>
 
 ## Features
