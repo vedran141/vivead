@@ -41,3 +41,11 @@ The interesting part is how a user's taste is handled. A common approach average
 3. **Results are interleaved round-robin.** Each reference book gets a quota proportional to its weight, with a guaranteed minimum so no interest is dropped. The final list alternates between them.
 
 The result is a feed that reflects *all* of your interests, not just the most common one.
+
+## Author
+
+**<Vedran Ivanković>**: [LinkedIn](https://www.linkedin.com/in/vedran-ivankovi%C4%87/) · [GitHub](https://github.com/vedran141)
+
+## Acknowledgements
+
+Book data from [Kaggle / Goodreads](https://www.kaggle.com/datasets/ishikajohari/best-books-10k-multi-genre-data). Covers via the Google Books API.
