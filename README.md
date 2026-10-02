@@ -5,10 +5,10 @@
 **vivead** is a mobile app for tracking what you read and discovering what to read next. Its recommendation engine is built to serve readers with *diverse* tastes, so a single dominant genre doesn't drown out everything else you like.
 
 <p align="center">
-  <img src="docs/screenshots/1.png" width="170" />
-  <img src="docs/screenshots/2.png" width="170" />
-  <img src="docs/screenshots/3.png" width="170" />
-  <img src="docs/screenshots/4.png" width="170" />
+  <img src="docs/screenshots/1.png" width="200" />
+  <img src="docs/screenshots/2.png" width="200" />
+  <img src="docs/screenshots/3.png" width="200" />
+  <img src="docs/screenshots/4.png" width="200" />
 </p>
 
 ## Features
@@ -18,7 +18,7 @@
 - **Reading status** per book: *Want to Read*, *Reading*, *Read*
 - **Favourites**: mark books and genres you love
 - **Personalized "For You" feed** based on your library, favourites and reading statuses
-- Catalog of ~9,900 books with covers, descriptions, genres and ratings
+- Catalogue of **~10,000 books** with covers, descriptions, genres and ratings
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@
 | Book covers | Google Books API |
 | Data pipeline | Python scripts (cleaning, deduplication, cover lookup, Firestore import) |
 
-## How the Recommender Works
+## How the Recommendation System works
 
 The engine is **content-based**: every book is represented as a TF-IDF vector built from its genres and description, and similarity is measured with cosine similarity.
 
@@ -44,7 +44,7 @@ The result is a feed that reflects *all* of your interests, not just the most co
 
 ## Author
 
-**<Vedran Ivanković>**: [LinkedIn](https://www.linkedin.com/in/vedran-ivankovi%C4%87/) · [GitHub](https://github.com/vedran141)
+**Vedran Ivanković**: [LinkedIn](https://www.linkedin.com/in/vedran-ivankovi%C4%87/) · [GitHub](https://github.com/vedran141)
 
 ## Acknowledgements
 
